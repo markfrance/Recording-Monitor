@@ -1,0 +1,16 @@
+﻿using System;
+
+namespace AE.Net.Mail
+{
+    [Serializable()]
+    public class ImapClientException : Exception
+    {
+        public ImapClientException() { }
+        public ImapClientException(string message) : base(message) { }
+        public ImapClientException(string message, Exception inner) : base(message, inner) { }
+
+        protected ImapClientException(System.Runtime.Serialization.SerializationInfo info,
+                System.Runtime.Serialization.StreamingContext context)
+        { }
+    }
+}

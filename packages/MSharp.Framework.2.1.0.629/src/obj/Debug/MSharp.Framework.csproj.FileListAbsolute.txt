@@ -1,0 +1,6 @@
+C:\@Geeks.Coder\M#\Framework\@Assemblies\MSharp.Framework.XML
+C:\@Geeks.Coder\M#\Framework\@Assemblies\MSharp.Framework.dll
+C:\@Geeks.Coder\M#\Framework\@Assemblies\MSharp.Framework.pdb
+C:\@Geeks.Coder\M#\Framework\MSharp.Framework\obj\Debug\MSharp.Framework.csprojResolveAssemblyReference.cache
+C:\@Geeks.Coder\M#\Framework\MSharp.Framework\obj\Debug\MSharp.Framework.dll
+C:\@Geeks.Coder\M#\Framework\MSharp.Framework\obj\Debug\MSharp.Framework.pdb

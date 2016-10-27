@@ -1,0 +1,6 @@
+﻿Full license for AE.Net.Mail:
+https://aenetmail.codeplex.com/license
+
+The nuget package of AE.Net.Mail is not signed. We include it here and signed it, until they sign the package.
+Nothing else is changed in the core source code.
+

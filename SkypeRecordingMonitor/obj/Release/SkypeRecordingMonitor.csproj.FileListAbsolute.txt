@@ -1,0 +1,37 @@
+C:\Users\Mark.France\Documents\Visual Studio 2015\Projects\SkypeRecordingMonitor\SkypeRecordingMonitor\bin\Release\SkypeRecordingMonitor.exe.config
+C:\Users\Mark.France\Documents\Visual Studio 2015\Projects\SkypeRecordingMonitor\SkypeRecordingMonitor\bin\Release\SkypeRecordingMonitor.exe
+C:\Users\Mark.France\Documents\Visual Studio 2015\Projects\SkypeRecordingMonitor\SkypeRecordingMonitor\bin\Release\SkypeRecordingMonitor.pdb
+C:\Users\Mark.France\Documents\Visual Studio 2015\Projects\SkypeRecordingMonitor\SkypeRecordingMonitor\bin\Release\Newtonsoft.Json.dll
+C:\Users\Mark.France\Documents\Visual Studio 2015\Projects\SkypeRecordingMonitor\SkypeRecordingMonitor\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\Mark.France\Documents\Visual Studio 2015\Projects\SkypeRecordingMonitor\SkypeRecordingMonitor\bin\Release\Newtonsoft.Json.xml
+C:\Users\Mark.France\Documents\Visual Studio 2015\Projects\SkypeRecordingMonitor\SkypeRecordingMonitor\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\Mark.France\Documents\Visual Studio 2015\Projects\SkypeRecordingMonitor\SkypeRecordingMonitor\obj\Release\SkypeRecordingMonitor.ProjectInstaller.resources
+C:\Users\Mark.France\Documents\Visual Studio 2015\Projects\SkypeRecordingMonitor\SkypeRecordingMonitor\obj\Release\SkypeRecordingMonitor.csproj.GenerateResource.Cache
+C:\Users\Mark.France\Documents\Visual Studio 2015\Projects\SkypeRecordingMonitor\SkypeRecordingMonitor\obj\Release\SkypeRecordingMonitor.exe
+C:\Users\Mark.France\Documents\Visual Studio 2015\Projects\SkypeRecordingMonitor\SkypeRecordingMonitor\obj\Release\SkypeRecordingMonitor.pdb
+C:\Users\Mark.France\Documents\Visual Studio 2015\Projects\SkypeRecordingMonitor\SkypeRecordingMonitor\bin\Release\Id3.dll
+C:\Users\Mark.France\Documents\Visual Studio 2015\Projects\SkypeRecordingMonitor\SkypeRecordingMonitor\bin\Release\Id3.Files.dll
+C:\Users\Mark.France\Documents\Visual Studio 2015\Projects\SkypeRecordingMonitor\SkypeRecordingMonitor\bin\Release\policy.2.0.taglib-sharp.dll
+C:\Users\Mark.France\Documents\Visual Studio 2015\Projects\SkypeRecordingMonitor\SkypeRecordingMonitor\bin\Release\taglib-sharp.dll
+C:\Users\Mark.France\Documents\Visual Studio 2015\Projects\SkypeRecordingMonitor\SkypeRecordingMonitor\bin\Release\Id3.pdb
+C:\Users\Mark.France\Documents\Visual Studio 2015\Projects\SkypeRecordingMonitor\SkypeRecordingMonitor\bin\Release\Id3.Files.pdb
+C:\Users\Mark.France\Documents\Visual Studio 2015\Projects\SkypeRecordingMonitor\SkypeRecordingMonitor\bin\Release\policy.2.0.taglib-sharp.config
+C:\work\src\github.com\markfrance\SkypeRecordingMonitor\SkypeRecordingMonitor\bin\Release\SkypeRecordingMonitor.exe.config
+C:\work\src\github.com\markfrance\SkypeRecordingMonitor\SkypeRecordingMonitor\obj\Release\SkypeRecordingMonitor.exe
+C:\work\src\github.com\markfrance\SkypeRecordingMonitor\SkypeRecordingMonitor\obj\Release\SkypeRecordingMonitor.pdb
+C:\work\src\github.com\markfrance\SkypeRecordingMonitor\SkypeRecordingMonitor\bin\Release\SkypeRecordingMonitor.exe
+C:\work\src\github.com\markfrance\SkypeRecordingMonitor\SkypeRecordingMonitor\bin\Release\SkypeRecordingMonitor.pdb
+C:\work\src\github.com\markfrance\SkypeRecordingMonitor\SkypeRecordingMonitor\bin\Release\Id3.dll
+C:\work\src\github.com\markfrance\SkypeRecordingMonitor\SkypeRecordingMonitor\bin\Release\Id3.Files.dll
+C:\work\src\github.com\markfrance\SkypeRecordingMonitor\SkypeRecordingMonitor\bin\Release\Newtonsoft.Json.dll
+C:\work\src\github.com\markfrance\SkypeRecordingMonitor\SkypeRecordingMonitor\bin\Release\policy.2.0.taglib-sharp.dll
+C:\work\src\github.com\markfrance\SkypeRecordingMonitor\SkypeRecordingMonitor\bin\Release\System.Net.Http.Formatting.dll
+C:\work\src\github.com\markfrance\SkypeRecordingMonitor\SkypeRecordingMonitor\bin\Release\taglib-sharp.dll
+C:\work\src\github.com\markfrance\SkypeRecordingMonitor\SkypeRecordingMonitor\bin\Release\Id3.pdb
+C:\work\src\github.com\markfrance\SkypeRecordingMonitor\SkypeRecordingMonitor\bin\Release\Id3.Files.pdb
+C:\work\src\github.com\markfrance\SkypeRecordingMonitor\SkypeRecordingMonitor\bin\Release\Newtonsoft.Json.xml
+C:\work\src\github.com\markfrance\SkypeRecordingMonitor\SkypeRecordingMonitor\bin\Release\System.Net.Http.Formatting.xml
+C:\work\src\github.com\markfrance\SkypeRecordingMonitor\SkypeRecordingMonitor\bin\Release\policy.2.0.taglib-sharp.config
+C:\work\src\github.com\markfrance\SkypeRecordingMonitor\SkypeRecordingMonitor\obj\Release\SkypeRecordingMonitor.csprojResolveAssemblyReference.cache
+C:\work\src\github.com\markfrance\SkypeRecordingMonitor\SkypeRecordingMonitor\obj\Release\SkypeRecordingMonitor.ProjectInstaller.resources
+C:\work\src\github.com\markfrance\SkypeRecordingMonitor\SkypeRecordingMonitor\obj\Release\SkypeRecordingMonitor.csproj.GenerateResource.Cache
